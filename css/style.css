@@ -1,51 +1,32 @@
 table {
     width: 500px;
     height: 500px;
-    margin: 0 400px;
-    text-align: center;
+    margin: 0 auto;
 }
 
 td {
     width: 10px;
     height: 10px;
-    padding: 5px;
-    border: 8px solid #181a10;
-    background-color: rgb(255, 255, 255);
+    border: 13px solid #181a10;
 }
 
 .white {
     background-color: #fff;
-    color: #fff;
 }
 
 .yellow {
     background-color: #fff978;
-    color: #fff978;
 }
 
 .red {
     background-color: #ff523c;
-    color: #ff523c;
 }
 
 .green {
     background-color: #212b28;
-    color: #212b28;
 }
 
 .blue {
     background-color: #00457f;
-    color: #00457f;
 }
 
-.hidden td {
-    border: 0;
-    background-color: transparent;
-    color: transparent;
-}
-
-.hide {
-    border: 0;
-    background-color: transparent;
-    color: transparent;
-}
